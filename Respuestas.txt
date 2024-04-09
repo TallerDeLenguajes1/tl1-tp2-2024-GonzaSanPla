@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 "" 
+=======
+Si puedo ver el archivo tp2_1_1.c pero no puedo ver las modificaciones hechas en la rama.
+No se puede ver el archivo txt de la carpeta al esta en la rama Opcion 2.
+Al usar merge todo lo que se hizo en Opcion 2 se guarda tambien en la rama main.
+>>>>>>> Opcion_2
